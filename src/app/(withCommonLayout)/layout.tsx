@@ -6,7 +6,7 @@ const CommonLayout = ({ children }: any) => {
   return (
     <div>
       <Navbar />
-      {children}
+      <div className="min-h-dvh">{children}</div>
       <Footer />
     </div>
   );
