@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Ultrabook X15",
+      "category": "Laptop",
+      "brand": "TechPro",
+      "price": 1200,
+      "image": "https://www.pcworld.com/wp-content/uploads/2024/12/bf-laptop1.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Gaming Beast G7",
+      "category": "Laptop",
+      "brand": "PowerMax",
+      "price": 1500,
+      "image": "https://cdn.mos.cms.futurecdn.net/4xkB6bJbMZfP7KZbE6aW4h.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Smartphone Z Pro",
+      "category": "Phone",
+      "brand": "MobileOne",
+      "price": 999,
+      "image": "https://m-cdn.phonearena.com/images/article/144544-wide-two_1200/The-best-phones.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "Tablet AirTab 11",
+      "category": "Tablet",
+      "brand": "TabWorld",
+      "price": 650,
+      "image": "https://cdn.mos.cms.futurecdn.net/nR4mqBG2EiQwP5y73k8Fok.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Smartwatch PulseX",
+      "category": "Wearable",
+      "brand": "FitTech",
+      "price": 250,
+      "image": "https://cdn.mos.cms.futurecdn.net/XF93r3n6Hc6zRpoYX9aLPh.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Noise Cancelling Headphones H500",
+      "category": "Audio",
+      "brand": "SoundPro",
+      "price": 300,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2023/06/noise-cancelling-headphones-2048px-4176.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "4K LED TV Vision50",
+      "category": "Television",
+      "brand": "ScreenMaster",
+      "price": 800,
+      "image": "https://m.media-amazon.com/images/I/91+yGjsvJNL.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Bluetooth Speaker MiniBoom",
+      "category": "Audio",
+      "brand": "BassBoost",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/81ZQ8lf7dxL.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "DSLR Camera CaptureX",
+      "category": "Camera",
+      "brand": "PhotoStar",
+      "price": 1100,
+      "image": "https://cdn.mos.cms.futurecdn.net/J3pZQaz8qsgfxuU4tY3PAi.jpg"
+    },
+    {
+      "id": 10,
+      "productName": "Mirrorless Camera FlexShot",
+      "category": "Camera",
+      "brand": "OptiMax",
+      "price": 1350,
+      "image": "https://cdn.mos.cms.futurecdn.net/TAvnMZ5Rk3rVwPBcKzqHQV.jpg"
+    },
+    {
+      "id": 11,
+      "productName": "Wireless Keyboard K9",
+      "category": "Accessories",
+      "brand": "KeyWorld",
+      "price": 90,
+      "image": "https://cdn.mos.cms.futurecdn.net/8xk8dVZyVwWhrQ9LJ6TQbL.jpg"
+    },
+    {
+      "id": 12,
+      "productName": "Wireless Mouse M7",
+      "category": "Accessories",
+      "brand": "ClickPro",
+      "price": 50,
+      "image": "https://cdn.mos.cms.futurecdn.net/2bpp4Smx9qT3h9bR8rYv8o.jpg"
+    },
+    {
+      "id": 13,
+      "productName": "Mechanical Keyboard GX100",
+      "category": "Accessories",
+      "brand": "TypeMaster",
+      "price": 140,
+      "image": "https://cdn.mos.cms.futurecdn.net/2qH4N9yF6Jk7V2ZmJ7RpFh.jpg"
+    },
+    {
+      "id": 14,
+      "productName": "Gaming Monitor 27Q",
+      "category": "Monitor",
+      "brand": "ViewMax",
+      "price": 400,
+      "image": "https://cdn.mos.cms.futurecdn.net/4kHvLZbR7Qp9V8fQ3bL4Wb.jpg"
+    },
+    {
+      "id": 15,
+      "productName": "Curved Monitor UltraWide 34C",
+      "category": "Monitor",
+      "brand": "VisionEdge",
+      "price": 650,
+      "image": "https://cdn.mos.cms.futurecdn.net/bcFq8PzW8J7Y3VfD5NwWcP.jpg"
+    },
+    {
+      "id": 16,
+      "productName": "External SSD SpeedPro 1TB",
+      "category": "Storage",
+      "brand": "DataFast",
+      "price": 180,
+      "image": "https://cdn.mos.cms.futurecdn.net/wZ7T3F5sK7nP8yN3qBfR4P.jpg"
+    },
+    {
+      "id": 17,
+      "productName": "External HDD StoreMax 2TB",
+      "category": "Storage",
+      "brand": "MemoryHub",
+      "price": 90,
+      "image": "https://cdn.mos.cms.futurecdn.net/X9zYQpW6vF8L5M3dK7zWbZ.jpg"
+    },
+    {
+      "id": 18,
+      "productName": "Portable Charger PowerBox 20000mAh",
+      "category": "Accessories",
+      "brand": "ChargeMate",
+      "price": 60,
+      "image": "https://m.media-amazon.com/images/I/71LGOFgqZGL.jpg"
+    },
+    {
+      "id": 19,
+      "productName": "Drone SkyFlyer X2",
+      "category": "Drone",
+      "brand": "AeroTech",
+      "price": 750,
+      "image": "https://cdn.mos.cms.futurecdn.net/ZfH2VqL8J3nP6M9bQ7R5cP.jpg"
+    },
+    {
+      "id": 20,
+      "productName": "VR Headset VisionX",
+      "category": "VR",
+      "brand": "ImmersiTech",
+      "price": 500,
+      "image": "https://cdn.mos.cms.futurecdn.net/4bF8QvR9X7kP5bN3vY6qBf.jpg"
+    }
+  ]
+}
