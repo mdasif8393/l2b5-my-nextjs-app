@@ -1,8 +1,10 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const Navbar = () => {
+  const pathname = usePathname();
   return (
     <nav className="bg-white border-gray-200 dark:bg-gray-900">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
@@ -48,7 +50,7 @@ const Navbar = () => {
             <li>
               <Link
                 href="/"
-                className="block py-2 px-3 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
+                className="block py-2 px-3 text-white  rounded-sm md:bg-transparent md:p-0 dark:text-white "
                 aria-current="page"
               >
                 Home
@@ -57,7 +59,11 @@ const Navbar = () => {
             <li>
               <Link
                 href="/products"
-                className="block py-2 px-3 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
+                className={
+                  pathname === "/products"
+                    ? "text-blue-500 underline"
+                    : "text-white cursor-pointer hover:underline"
+                }
                 aria-current="page"
               >
                 Products
